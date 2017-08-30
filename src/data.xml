@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lega>
+	<Tesserati>
+		<Tesserato id="1">
+			<Nome>Daniele</Nome>
+			<Cognome>Boncompagni</Cognome>
+			<DataNascita>17/11/1979</DataNascita>
+			<LuogoNascita>Broni</LuogoNascita>
+			<ComuneResidenza>Pieve Albignola</ComuneResidenza>
+			<Indirizzo>Via Privata Cavo Nocca 4</Indirizzo>
+			<Telefono>3283833056</Telefono>
+			<email>daniele.boncompagni@gmail.com</email>
+		</Tesserato>
+	</Tesserati>
+	<Tessere>
+		<Tessera idTesserato="1">
+			<Tipo>Militante</Tipo>
+			<Numero>455652</Numero>
+			<Anno>2017</Anno>
+			<RilasciataDa>PV</RilasciataDa>
+		</Tessera>
+	</Tessere>
+</Lega>
